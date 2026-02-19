@@ -29,13 +29,13 @@
     <tr>
       <th>
         <a href="https://github.com/dtruowfng3">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=dtruowfng3&show_icons=true&theme=catppuccin_latte&hide_border=true&rank_icon=github&bg_color=00000000" 
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=truongvd3124&show_icons=true&theme=catppuccin_latte&hide_border=true&rank_icon=github&bg_color=00000000" 
                alt="My GitHub stats" style="max-width: 100%;">
         </a>
       </th>
       <th>
         <a href="https://github.com/dtruowfng3">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtruowfng3&theme=catppuccin_latte&layout=compact&hide_border=true&langs_count=8&bg_color=00000000" 
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongvd3124&theme=catppuccin_latte&layout=compact&hide_border=true&langs_count=8&bg_color=00000000" 
                alt="My Languages Used" style="max-width: 100%;">
         </a>
       </th>
