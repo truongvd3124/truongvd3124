@@ -43,5 +43,5 @@
   </thead>
 </table>
 
-<em>"I don’t know where I’m going, but I’m on my way." just keep going</em> 
+<em>"I don’t know where I’m going, but I’m on my way."</em> 
 
