@@ -1,12 +1,9 @@
 <p align="center">
   <picture>
-    <!-- Dark Theme -->
-    <source srcset="hello_github_black.png" media="(prefers-color-scheme: dark)">
-    <!-- Light Theme -->
-    <img src="hello_github_white.png" alt="Profile Banner" width="80%">
+    <source srcset="hello_github_dark.gif" media="(prefers-color-scheme: dark)">
+    <img src="hello_github_light.gif" alt="Profile Banner" width="80%">
   </picture>
 </p>
-
 ### About & Project
 - **Computer Engineering** graduate-to-be from **HCM-UTE**, eager to dive deeper into **AI, Deep Learning (DL), GenAI, AI Agents & MLOps**.
 - Hands-on background in **IoT & Embedded** systems design, covering full **Hardware/Software (Hw/Sw)** integration.
