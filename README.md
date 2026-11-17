@@ -4,6 +4,7 @@
     <img src="hello_github_light.gif" alt="Profile Banner" width="80%">
   </picture>
 </p>
+
 ### About & Project
 - **Computer Engineering** graduate-to-be from **HCM-UTE**, eager to dive deeper into **AI, Deep Learning (DL), GenAI, AI Agents & MLOps**.
 - Hands-on background in **IoT & Embedded** systems design, covering full **Hardware/Software (Hw/Sw)** integration.
