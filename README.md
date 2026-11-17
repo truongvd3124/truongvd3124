@@ -8,21 +8,19 @@
 </p>
 
 ### About & Project
-- I’m currently final-year student in **Computer Engineering** major at **HCM-UTE (HCMC University of Technology and Engineering)** and learning **AI Agents, GenAI, Automation, ML/DL & MLOps**.
-- Participated in multiple **IoT & Embedded** system designs, including **Hw/Sw** integration.
-- **Built a marketing master tool ads manager integrate AI (meta ads & tiktok ads)** for UA team (link wf between others team) to optimize management ad campaign performance.
+- **Computer Engineering** graduate-to-be from **HCM-UTE**, eager to dive deeper into **AI, Deep Learning (DL), GenAI, AI Agents & MLOps**.
+- Hands-on background in **IoT & Embedded** systems design, covering full **Hardware/Software (Hw/Sw)** integration.
+- Experienced in **FE/BE development, AI Systems, and Cloud Infrastructure (AWS)**, deploying **GenAI features (Image, Video, LLM)** and managing backend APIs to deliver AI outputs for mobile applications.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="SKLearn" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 <table>
   <thead>
